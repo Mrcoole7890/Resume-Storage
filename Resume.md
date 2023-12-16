@@ -4,7 +4,7 @@ cole.kendall.18@cnu.edu |
 Williamsburg, VA
 
 ## Profile
-Passionate Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. Possesses 8+ years of experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
+Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. Possesses 8+ years of experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
 
 ## Skills
 * **Front-end Web Development**: Angular, JQuery, Bootstrap, PlayCanvas
@@ -26,7 +26,7 @@ Passionate Computer Scientist with 2 years of working experience as a SDET, cont
 * Volunteered to meet with the offshore teams during off hours to coordinate our test case execution and to relay information to the onshore team.
 * Assisted the transition of the new team lead for the onshore team to become familiar with our automation workflow and provided them with assistance understanding anything ambiguous to them.
 * Implemented dozens of automated test cases via Selenium, following the user stories listed in Jira and extended code functionality to be more generic, reducing the overall code needed to be written per new related test case.
-* Presented soultions to automate test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
+* Presented solutions to automate test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
 
 ### Associate At Revature (October 2021 - July 2023)
 * Coordinated with Revature clients to communicate their skill set obtained while training with Revature and their batchmates
