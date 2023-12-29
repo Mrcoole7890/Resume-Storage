@@ -1,6 +1,6 @@
 # Cole A. Kendall
-(757) 266 6879 | 
-cole.kendall.18@cnu.edu | 
+(757) 266 6879 |
+mrcoole7890@outlook.com |
 Williamsburg, VA
 
 ## Profile
