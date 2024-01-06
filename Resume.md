@@ -1,4 +1,3 @@
-\pagenumbering {gobble}
 # Cole A. Kendall
 (757) 266 6879 |
 mrcoole7890@outlook.com |
