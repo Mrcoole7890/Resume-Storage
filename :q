@@ -1,4 +1,5 @@
-\pagenumbering {gobble}
+\\pagenumbering {gobble}
+
 # Cole A. Kendall
 (757) 266 6879 |
 mrcoole7890@outlook.com |
@@ -20,7 +21,7 @@ Computer Scientist with 2 years of working experience as a SDET, contracted unde
 
 ## Experience
 
-### SDET At GlobalLogic (May 2022 - July 2023)
+### SDET At GlobalLogic (May 2022 - July 2023) [40 Hours a Week]
 * Utilized Postman to supplement the team's manual testing objectives by sending post requests to simulate events to be processed by the application for the client.
 * To circumvent subscription service charges imposed by Postman, researched homebrewed solutions utilizing curl commands to continue manual testing operations.
 * Presented working solutions to automate previously manual test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
@@ -29,7 +30,7 @@ Computer Scientist with 2 years of working experience as a SDET, contracted unde
 * Implemented dozens of automated test cases via Selenium, following the user stories listed in Jira and extended code functionality to be more generic, reducing the overall code needed to be written per new related test case.
 * Presented solutions to automate test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
 
-### Associate At Revature (October 2021 - July 2023)
+### Associate At Revature (October 2021 - July 2023) [40 Hours a Week]
 * Coordinated with Revature clients to communicate their skill set obtained while training with Revature and their batchmates
 * Trained with batchmates in SDET techniques and technologies to achieve learning objectives
 * Assigned to implement and demonstrate JAVA oriented web technologies with a focus in QA tools
