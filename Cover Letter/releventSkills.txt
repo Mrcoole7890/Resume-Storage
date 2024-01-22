@@ -1,0 +1,1 @@
+As a QA/Automation developer, at globalLogic, it was my duty to ensure the product provided to the costomer functioned according to the user stories every sprint. I was assigned to write automated test cases using tools like selenium, postman, and Jmeter. 
