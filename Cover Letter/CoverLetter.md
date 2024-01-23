@@ -9,11 +9,9 @@ header-includes:
 ## Cole Alexander Kendall
 ### (757)-266-6879 | mrcoole7890@outlook.com | Willamsburg, VA
 
-$date$
-
 [NameOfEmployer]
 
-Dear [HRName],
+Hello,
 
 [SelfPresent] [HowDidFind]
 

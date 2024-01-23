@@ -4,7 +4,7 @@ mrcoole7890@outlook.com |
 Williamsburg, VA
 
 ## Profile
-Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. Possesses 8+ years of experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
+Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. Possesses even more years of experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
 
 ## Skills
 * **Front-end Web Development**: Angular, JQuery, Bootstrap, PlayCanvas
@@ -16,6 +16,7 @@ Computer Scientist with 2 years of working experience as a SDET, contracted unde
 * **Project Management**: Jira, Git, GitLabs
 * **Cloud Computing**: AWS S3, AWS EC2
 * **General Computing Tools**: vim, markdown, CLI operations
+* **Languages**: C++, Java, Javascript, C#, SQL, C, Python
 
 ## Experience
 
