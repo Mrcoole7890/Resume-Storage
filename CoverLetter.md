@@ -5,7 +5,7 @@ date: \today{}
 geometry: margin=1in
 header-includes:
     - \usepackage{setspace}
-    - \doublespacing
+    - \setstretch{1.25}
 ---
 
 Test Employer
