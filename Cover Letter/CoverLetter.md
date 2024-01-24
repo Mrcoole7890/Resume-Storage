@@ -1,13 +1,12 @@
 ---
 title: Cole Alexander Kendall
+subtitle: (757)-266-6879 | cole.kendall.40@gmail.com | Willamsburg, VA
 date: \today{}
 geometry: margin=1in
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
 ---
-## Cole Alexander Kendall
-### (757)-266-6879 | mrcoole7890@outlook.com | Willamsburg, VA
 
 [NameOfEmployer]
 
