@@ -1,10 +1,10 @@
 # Cole A. Kendall
 (757) 266 6879 |
-mrcoole7890@outlook.com |
+cole.kendall.40@gmail.com |
 Williamsburg, VA
 
 ## Profile
-Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. Possesses even more years of experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
+Computer Scientist with 2 years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. As a continuing acedamian, I have gained more experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
 
 ## Skills
 * **Front-end Web Development**: Angular, JQuery, Bootstrap, PlayCanvas
