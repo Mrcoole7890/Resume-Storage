@@ -1,1 +1,1 @@
-I am a Java programmer with a year and a half of experience in SDET operations and QA automation. I possess a Bachelor's and Associate's in Computer Science. I find great pleasure in the Software Development life cycle and wish to continue my career in this field.
+I am a SDET operations and QA automation specialist. I possess a Bachelor's and Associate's in Computer Science. I possess prior experience performing quality assurance with systems utilizing micro services that make up their archetecture.
