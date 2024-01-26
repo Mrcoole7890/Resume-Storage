@@ -1,3 +1,7 @@
+---
+header-includes:
+    - \pagenumbering{gobble}
+---
 # Cole A. Kendall
 (757) 266 6879 |
 cole.kendall.40@gmail.com |
