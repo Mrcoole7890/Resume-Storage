@@ -1,1 +1,1 @@
-As a QA/Automation developer, at globalLogic, I wrote tests against many different services. I crafted curl request to validate event logs on splunk. I was responisble for assisting leadership with executing and interpereting stress tests against different services within the system being developed.
+I have a bacholer's in computer science from CNU. As a previous member of a QA team, I am very expirenced in communicating with the developers and project managers concerning technical spesifications.

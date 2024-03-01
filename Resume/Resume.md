@@ -1,5 +1,6 @@
 ---
 header-includes:
+    - \usepackage{setspace}
     - \pagenumbering{gobble}
 ---
 # Cole A. Kendall
