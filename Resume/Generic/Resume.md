@@ -9,25 +9,24 @@ cole.kendall.40@gmail.com |
 Williamsburg, VA
 
 ## Profile
-Computer Scientist with two years of working experience as a SDET, contracted under GlobalLogic, while being employed and trained by Revature, in order to perform various QA objectives for the client, T-Mobile. As a continuing acedamian, I have gained more experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
+Computer Scientist with two years of working experience as a Software Developer Engineer In Test (SDET) in an agile environment. I was contracted under GlobalLogic, while being employed and trained by Revature, to perform various QA objectives for the client (T-Mobile). As a continuous learner, I have gained more experience as a hobbyist and ongoing practitioner of various sub-disciplines within computer science and software development.
+         
+## Education And Certifications
 
-## Skills
-* **Front-end Web Development**: Angular, JQuery, Bootstrap, PlayCanvas
-* **Back-end Web Development**: Spring Boot, Node.js, Express.js, MySQL, H2
-* **SDET/QA Tools**: Selenium, JUnit, Cucumber, Postman, Newman, Selenium Box, JMeter
-* **Operating Systems**: Windows, MACOS, Linux Mint, Ubuntu, Amazon Linux 2 (AL2), Kali Linux
-* **Certifications**: Security+, AWS Cloud practitioner
-* **Data Science**: Scrapy, PlotPy, Jupyter Notebook
-* **Project Management**: Jira, Git, GitLabs
-* **Cloud Computing**: AWS S3, AWS EC2
-* **General Computing Tools**: vim, markdown, CLI operations
-* **Languages**: C++, Java, Javascript, C#, SQL, C, Python
+* **Christopher Newport University B.A. Computer Science** Fall 2023
+
+* **Thomas Nelson Community College A.S. Computer Science** Spring 2018
+
+* **AWS Certified Cloud Practitioner** March 2022
+
+* **CompTIA Security+** July 2023
 
 ## Experience
 
 ### SDET At GlobalLogic (May 2022 - July 2023)
+* Lead agile meetings with a team of up to 25 developers between the on shore and off shore team.
 * Utilized Postman to supplement the team's manual testing objectives by sending post requests to simulate events to be processed by the application for the client.
-* To circumvent subscription service charges imposed by Postman, researched homebrewed solutions utilizing curl commands to continue manual testing operations.
+* To circumvent subscription service charges imposed by Postman, researched home brewed solutions utilizing curl commands to continue manual testing operations.
 * Presented working solutions to automate previously manual test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
 * Volunteered to meet with the offshore teams during off hours to coordinate our test case execution and to relay information to the onshore team.
 * Assisted the transition of the new team lead for the onshore team to become familiar with our automation workflow and provided them with assistance understanding anything ambiguous to them.
@@ -38,14 +37,11 @@ Computer Scientist with two years of working experience as a SDET, contracted un
 * Coordinated with Revature clients to communicate their skill set obtained while training with Revature and their batchmates
 * Trained with batchmates in SDET techniques and technologies to achieve learning objectives
 * Assigned to implement and demonstrate JAVA oriented web technologies with a focus in QA tools
-* Delegated the position of Scrum Master during the training phase at Revature and oversaw the development of a mock social media web applications
-         
-## Education
+* Operated under the position of Scrum Master during the training phase at Revature and oversaw the development of a mock social media web application
 
-### Thomas Nelson Community College 
-* Associate’s Degree in Computer Science
-* Spring 2018
-
-### Christopher Newport University 
-* Bachelor's in Computer Science
-* Fall 2023
+## Skills
+* **Web Development**: Angular, JQuery, Bootstrap, Spring Boot, Node.js, Express.js, MySQL, H2
+* **SDET/QA Tools**: Selenium, JUnit, Cucumber, Postman, Selenium Box, JMeter, Jenkins
+* **Operating Systems**: Windows, MACOS, Linux Mint, Ubuntu, Amazon Linux 2 (AL2), Kali Linux
+* **Cloud Computing**: AWS S3, AWS EC2
+* **Languages**: C++, Java, Javascript, C#, SQL, C, Python
