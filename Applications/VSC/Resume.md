@@ -8,33 +8,39 @@ header-includes:
 cole.kendall.40@gmail.com |
 Williamsburg, VA
 
+## Summary
+NICET Level I certified Fire Alarm Technician with experience maintaining, testing, and installing fire alarm systems across large-scale facilities including Busch Gardens and Water Country USA. Skilled in system diagnostics, device programming, and coordinating with contractors to ensure code compliance and system reliability. Brings additional technical troubleshooting experience from a background in software testing and automation.
+
+## Technical Skills
+* Fire Alarm Systems: Inspection, testing, maintenance, troubleshooting 
+* Equipment: Fire alarm control panels, NAC panels, initiating devices 
+* Installation: Conduit bending, wire pulling, system expansion 
+* Compliance: NFPA 72 familiarity, annual testing procedures 
+* Tools: Multimeters, diagnostic tools, hand tools 
+* Certifications: NICET Fire Alarm Systems Level I 
+
 ## Experience
 
 ### Fire Alarm Service Technician at Busch Gardens (February 2025 - Current)
-* Maintained 40 fire alarm control panels across Busch Gardens, Water Country USA, and the Ambassador Housing Village.
-* Contributed in project planning for the new attractions and their fire protection systems.
-* Programmed and tested various devices and modules for proper function.
-* Assisted in 2025 annual testing.
-* Installed NAC extender panels at various locations around the park.
-* Coordinated with various contractors in their working activities around different initiating devices to avoid unwanted alarms. 
-* Pulled wire and bent conduit for providing power to new systems and for replacing old material.
+* Maintain and service 40+ Notifier fire alarm control panels across Busch Gardens, Water Country USA, and housing facilities 
+* Perform system testing, troubleshooting, and device programming to ensure proper functionality and code compliance 
+* Support annual fire alarm inspections and testing procedures in accordance with safety standards 
+* Install and configure NAC extender panels and associated system components 
+* Coordinate with contractors and vendors to prevent false alarms and maintain system integrity during construction activities 
+* Install conduit and wiring for new system installations, upgrades, and replacements 
 
 ### SDET at GlobalLogic (May 2022 - July 2023)
-* Presented working solutions to automate previously manual test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
-* Assisted the transition of the new team lead for the onshore team to become familiar with our automation workflow and provided them with assistance understanding anything ambiguous to them.
-* Implemented dozens of automated test cases via Selenium, following the user stories listed in Jira and extended code functionality to be more generic, reducing the overall code needed to be written per new related test case.
-* Presented solutions to automate test cases involving complex interactions between the test suite instance, the selenium box server, and the web application for the client.
+* Developed automated test cases using Selenium to improve testing efficiency and reduce manual effort 
+* Troubleshot complex system interactions between test environments and web applications 
+* Collaborated with cross-functional teams using Agile methodologies to support testing workflows 
 
 ### Associate at Revature (October 2021 - July 2023)
-* Coordinated with Revature clients to communicate their skill set obtained while training with Revature and their batch mates.
-* Trained with batch mates in SDET techniques and technologies to achieve learning objectives.
-* Assigned to implement and demonstrate JAVA oriented web technologies with a focus in QA tools.
-* Operated under the position of Scrum Master during the training phase at Revature and oversaw the development of a mock social media web application.
+* Completed training in SDET methodologies, Java-based technologies, and QA tools 
+* Collaborated in team-based development projects simulating real-world client environments 
+* Served as Scrum Master for a team project, facilitating Agile processes and coordinating development efforts 
 
 ## Education And Certifications
 
-* **Christopher Newport University B.A. Computer Science** Fall 2023
-
-* **Thomas Nelson Community College A.S. Computer Science** Spring 2018
-
-* **NICET Fire Alarm Systems 1** July 2025
+* **Christopher Newport University** — B.A. Computer Science (2023) 
+* **Thomas Nelson Community College** — A.S. Computer Science (2018) 
+* **NICET Fire Alarm Systems Level I** (2025)
